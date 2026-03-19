@@ -58,7 +58,7 @@ A responsive city reporting platform where citizens can report issues with photo
 - Live Demo: https://urban-pulse-six.vercel.app
 
 <p align="center">
-  <img src="https://image.thum.io/get/width/700/https://urban-pulse-six.vercel.app" alt="Urban Pulse preview" width="100%" />
+  <img src="https://image.thum.io/get/width/700/https://urban-pulse-six.vercel.app" alt="Urban Pulse preview" width="100%" height="70%" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ A responsive city reporting platform where citizens can report issues with photo
 A result viewing and management platform for students and officials, supporting bulk uploads through CSV or Excel and roll-number-based access for each result.
 
 <p align="center">
-  <img src="https://via.placeholder.com/700x675.png?text=Resultify+Preview" alt="Resultify preview" width="100%" />
+  <img src="https://test-frontend-one-coral.vercel.app/700x675.png?text=Resultify+Preview" alt="Resultify preview" width="100%" height="70%"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ An agentic AI workspace where AI agents act like employees, receive tasks from a
 - Live Demo: https://syncspace-rho.vercel.app/
 
 <p align="center">
-  <img src="https://image.thum.io/get/width/700/https://syncspace-rho.vercel.app/" alt="Sync Space preview" width="100%" />
+  <img src="https://image.thum.io/get/width/700/https://syncspace-rho.vercel.app/" alt="Sync Space preview" width="100%" height="70%" />
 </p>
 
 ---
