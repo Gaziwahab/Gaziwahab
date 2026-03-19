@@ -196,6 +196,12 @@ An **agentic AI workspace** that simulates a real office environment — where A
 
 <div align="center">
 
+![Total Stars](https://img.shields.io/github/stars/Gaziwahab?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=f1c40f)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Gaziwahab?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=58a6ff)
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Gaziwahab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs&show=prs_merged,reviews&count_private=true&rank_icon=github" height="165" alt="Gazi's GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaziwahab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages" />
