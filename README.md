@@ -58,7 +58,7 @@ A responsive city reporting platform where citizens can report issues with photo
 - Live Demo: https://urban-pulse-six.vercel.app
 
 <p align="center">
-  <img src="https://image.thum.io/get/width/1200/https://urban-pulse-six.vercel.app" alt="Urban Pulse preview" width="100%" height="10%" />
+  <img src="https://image.thum.io/get/width/200/https://urban-pulse-six.vercel.app" alt="Urban Pulse preview" width="100%" height="10%" />
 </p>
 
 ---
