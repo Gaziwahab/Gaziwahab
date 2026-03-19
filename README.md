@@ -65,9 +65,9 @@ A responsive city reporting platform where citizens can report issues with photo
 
 ### Resultify
 A result viewing and management platform for students and officials, supporting bulk uploads through CSV or Excel and roll-number-based access for each result.
-
+- Live Demo: https://test-frontend-one-coral.vercel.app/
 <p align="center">
-  <img src="https://image.thum.io/get/width/700/https://test-frontend-one-coral.vercel.app/700x675.png?text=Resultify+Preview" alt="Resultify preview" width="100%" height="70%"/>
+  <img src="https://image.thum.io/get/width/700/https://test-frontend-one-coral.vercel.app/" alt="Resultify preview" width="100%" height="70%"/>
 </p>
 
 ---
