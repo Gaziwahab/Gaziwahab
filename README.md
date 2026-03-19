@@ -1,93 +1,75 @@
-<!-- ======================= HEADER ======================= -->
-<h1 align="center">Hi 👋, I'm Gazi Wahab</h1>
-<h3 align="center">🚀  Developer | AI Explorer</h3>
+<h1 align="center">Hi 👋, I'm Gazi</h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Learner;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Intelligent+Systems;Exploring+Agentic+AI;Turning+Ideas+into+Products" />
 </p>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
-## 🧠 About Me
-- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
-- 💻 Skilled in **Web Development & Programming**
-- 🤖 Exploring **AI-based Projects**
-- 📈 Building projects like **Internship Finder & Billing Systems**
-- 🎯 Goal: Become a **Software developer**
+## 🚀 About Me
+- 💻 Full Stack Developer (React, Node, TypeScript)
+- ⚡ Building scalable & real-world products  
+- 🤖 Exploring **Agentic AI systems**  
+- 🧠 Problem Solver + Vibe Coder  
+- 🌍 Focused on AI-powered development  
 
 ---
 
-<!-- ======================= SKILLS ======================= -->
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,mysql,bootstrap,git,github,vscode" />
+## 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,nodejs,express,mysql,mongodb,supabase" />
 </p>
 
 ---
 
-<!-- ======================= STATS ======================= -->
+## 🔥 Featured Projects
+
+### 🌆 Urban Pulse
+> Smart city issue reporting platform with real-time dashboard  
+🔗 https://urban-pulse-six.vercel.app  
+
+---
+
+### 📊 Resultify
+> Result management system with bulk upload & roll-number access  
+
+---
+
+### 🤖 Sync Space
+> AI workspace where agents act as employees & execute tasks  
+🔗 https://syncspace-rho.vercel.app/  
+
+---
+
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaziwahab&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaziwahab&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaziwahab&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaziwahab&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaziwahab&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ======================= ACTIVITY GRAPH ======================= -->
-## 📈 Contribution Graph
+## 🧠 Dev Philosophy
+> “The future belongs to those who build systems that think, adapt, and evolve.”
 
+---
+
+## 👁 Visitor Count
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaziwahab&theme=react-dark" />
+  <img src="https://komarev.com/ghpvc/?username=Gaziwahab&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<!-- ======================= TROPHIES ======================= -->
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gaziwahab&theme=onestar&no-frame=true&margin-w=10" />
-</p>
-
----
-
-<!-- ======================= PROJECTS ======================= -->
-## 🚀 Featured Projects
-
-- 💡 Internship & Job Finder System (Java + AI)
-- ⚡ Electricity Billing System
-- 🧠 AI Coding Learning Platform (Idea Phase)
-
----
-
-<!-- ======================= SOCIAL ======================= -->
 ## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Gaziwahab"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/gazi-wahab/">LinkedIn</a> •
+  <a href="https://instagram.com/gazi.wahab">Instagram</a> •
+  <a href="mailto:gaziwahab58@gmail.com">Email</a>
 </p>
 
 ---
 
-<!-- ======================= FOOTER ======================= -->
 <p align="center">
-  💻 "Code. Secure. Repeat." 🔐
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gaziwahab&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
 </p>
