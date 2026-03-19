@@ -78,7 +78,7 @@ An agentic AI workspace where AI agents act like employees, receive tasks from a
 - Live Demo: https://syncspace-rho.vercel.app/
 
 <p align="center">
-  <img src="https://image.thum.io/get/width/700/https://syncspace-rho.vercel.app/" alt="Sync Space preview" width="100%" height="70%" />
+  <img src="https://image.thum.io/get/width/700/https://syncspace-rho.vercel.app/" alt="Sync Space preview" width="50%" height="70%" />
 </p>
 
 ---
