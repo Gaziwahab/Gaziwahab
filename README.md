@@ -46,7 +46,7 @@ status     : Building · Learning · Shipping
 
 - 🔭 &nbsp;Currently building **AI-powered SaaS products**
 - 🤖 &nbsp;Exploring **Agentic AI** — systems where AI agents *actually work*
-- 🌱 &nbsp;Deepening expertise in **Next.js & Serverless architecture**
+- 🌱 &nbsp;Currently **exploring Next.js** for SaaS product development
 - 🛠️ &nbsp;Passionate about clean code, fast systems, and smart interfaces
 - 🎯 &nbsp;Goal: Contribute to open source & ship products that matter
 - ⚡ &nbsp;Fun fact: I think of code as a design problem
@@ -65,7 +65,7 @@ status     : Building · Learning · Shipping
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_(Exploring)-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -133,7 +133,7 @@ A responsive web app empowering citizens to **report city issues** with geotagge
 <tr>
 <td width="40%" align="center" valign="top">
   <br/>
-  <img src="https://media.giphy.com/media/ZVik7pIo9KB3zoltns/giphy.gif" width="250" alt="Resultify Preview" style="border-radius:8px;"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="Resultify Preview" style="border-radius:8px;"/>
   <br/><sub><i>Education · Data · Access</i></sub>
 </td>
 <td width="60%" valign="top">
@@ -253,7 +253,7 @@ An **agentic AI workspace** that simulates a real office environment — where A
 | 🚧 Building | 📚 Learning | 🤝 Open To |
 |:-----------:|:-----------:|:----------:|
 | SaaS Products with AI | Agentic AI Architecture | Open Source Contributions |
-| Intelligent Web Systems | Next.js Advanced Patterns | Collaboration on AI Projects |
+| Intelligent Web Systems | Next.js for SaaS (exploring) | Collaboration on AI Projects |
 | Scalable Backends | Serverless at Scale | Freelance & Full-time Roles |
 
 </div>
